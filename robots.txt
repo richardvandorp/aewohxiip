@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eewaibeihi.okanyurt.com/sitemap.xml
